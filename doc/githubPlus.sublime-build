@@ -1,7 +1,7 @@
 {
 	"selector" : "text.html.markdown",
 	"encoding" : "utf-8",
-	"file_regex": "^(.*):([0-9]+):([0-9]+): (?:error|warning):(.*)",
+	"file_regex": "README.MD : BUILD MARKDOWN FILE",
 	"cmd": ["git"],
 	"working_dir" : "$folder",
 	"variants": [
