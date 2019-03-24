@@ -1,0 +1,33 @@
+{
+	"selector" : "text.html.markdown",
+	"encoding" : "utf-8",
+	"file_regex": "^(.*):([0-9]+):([0-9]+): (?:error|warning):(.*)",
+	"cmd": ["git"],
+	"working_dir" : "$folder",
+	"variants": [
+		{
+			"name": "git show",
+			"cmd": ["git", "show"]
+		},
+		{
+			"name": "git add .",
+			"cmd": ["git", "add", "."]
+		},
+		{
+			"name": "git commit -m do",
+			"cmd": ["git",  "commit", "-m", "do"]
+		},
+		{
+			"name": "git push",
+			"cmd": ["git",  "push"]
+		},
+		{
+			"name": "git fast push",
+			"cmd": ["git", "add", ".", "&", "git", "commit", "-m", "do", "&", "git", "push"]
+		}
+	],
+	"shell" : "true",
+	"windows" : {
+		"path" : "$PATH"
+	}
+}
