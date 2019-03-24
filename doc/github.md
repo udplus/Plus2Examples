@@ -8,3 +8,6 @@
 	- git add .
 	- git commit -m "do"
 	- git push
+
+## fast simple line
+	git add . & git commit -m "do" & git push	
