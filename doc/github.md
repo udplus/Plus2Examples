@@ -3,7 +3,7 @@
 
 ## simple
 	- git clone https://github.com/udplus/examples
-	- work
+	- work...
 	- git show
 	- git add .
 	- git commit -m "test"
