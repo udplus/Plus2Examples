@@ -6,5 +6,5 @@
 	- work...
 	- git show
 	- git add .
-	- git commit -m "test"
+	- git commit -m "do"
 	- git push
