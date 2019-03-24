@@ -1,3 +1,3 @@
 # examples
 
-![image](alan-walker.jpg)
+![image](images/alan-walker.jpg)
