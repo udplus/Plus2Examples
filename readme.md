@@ -17,4 +17,6 @@
 	git add . & git commit -m "do" & git push	
 
 ## git clone submoduls
-	git clone --recurse-submodules	
+	git clone --recurse-submodules
+
+## ...	
