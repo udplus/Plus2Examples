@@ -1,0 +1,1904 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Shu",
+				"ShiftUp"
+			],
+			[
+				"Ctrl",
+				"Ctrl"
+			],
+			[
+				"Num",
+				"Numpad6"
+			],
+			[
+				"cli",
+				"Clipboard"
+			],
+			[
+				"Ins",
+				"Ins"
+			],
+			[
+				"de",
+				"Del"
+			],
+			[
+				"Con",
+				"Control"
+			],
+			[
+				"Del",
+				"Delete"
+			],
+			[
+				"LC",
+				"LCtrl"
+			],
+			[
+				"re",
+				"Return"
+			],
+			[
+				"Cli",
+				"MouseClick"
+			],
+			[
+				"cl",
+				"Click"
+			],
+			[
+				"FileE",
+				"FileExist()"
+			],
+			[
+				"spli",
+				"StrSplit()"
+			],
+			[
+				"cmt",
+				"comment.drakon.short\tcomment"
+			],
+			[
+				"mu",
+				"fun <T> MutableList<T>.swap(i1:Int, i2:Int){\n\tval temp = this[i1]\n\tthis[i1] = this[i2]\n\tthis[i2] = tmp\n}"
+			],
+			[
+				"c",
+				"calcLazyField"
+			],
+			[
+				"Lay",
+				"LazyInitializer"
+			],
+			[
+				"file_",
+				"file_base_name"
+			],
+			[
+				"person",
+				"data class Person(var name: String, var age: Int)"
+			],
+			[
+				"Tr",
+				"T) -> R\t(T) -> R"
+			],
+			[
+				"T",
+				"T) -> Unit\t(T) -> Unit"
+			],
+			[
+				"Appm",
+				"AppMainKt"
+			],
+			[
+				"zzz",
+				"zzzz ----------------- File --------------------------------------------- \tzzzz"
+			],
+			[
+				"filebasn",
+				"file_base_name"
+			],
+			[
+				"ASci",
+				"A_ScriptFullPath"
+			],
+			[
+				"asc",
+				"A_ScriptName"
+			],
+			[
+				"A_scr",
+				"A_ScriptFullPath"
+			],
+			[
+				"EditPlus",
+				"EditPlusAhk"
+			],
+			[
+				"trim",
+				"Trim()"
+			],
+			[
+				"Spl",
+				"StrSplit()"
+			],
+			[
+				"A_Scr",
+				"A_ScriptFullPath"
+			],
+			[
+				"A_Script",
+				"A_ScriptName"
+			],
+			[
+				"hot",
+				"Hotstring\t#Hotstring"
+			],
+			[
+				"A_sc",
+				"A_ScreenHeight"
+			],
+			[
+				"inser",
+				"Insert"
+			],
+			[
+				"Filee",
+				"FileExist()"
+			],
+			[
+				"Split",
+				"SplitPath"
+			],
+			[
+				"Clipb",
+				"ClipboardAll"
+			],
+			[
+				"A_Field",
+				"A_LoopField"
+			],
+			[
+				"ini",
+				"IniWrite"
+			],
+			[
+				"Inp",
+				"InputBox"
+			],
+			[
+				"Esc",
+				"Escape"
+			],
+			[
+				"A_Sc",
+				"A_ScriptDir"
+			],
+			[
+				"StrRe",
+				"StrReplace()"
+			],
+			[
+				"top",
+				"AlwaysOnTop"
+			],
+			[
+				"%%",
+				"%A_Index%"
+			],
+			[
+				"A_",
+				"A_EventInfo"
+			],
+			[
+				"zzex",
+				"zzExitAppWinX"
+			],
+			[
+				"sin",
+				"SingleInstance\t#SingleInstance"
+			],
+			[
+				"A_L",
+				"A_LoopField"
+			],
+			[
+				"FIle",
+				"FileEncoding"
+			],
+			[
+				"Clip",
+				"Clipboard"
+			],
+			[
+				"File",
+				"FileEncoding"
+			],
+			[
+				"zz",
+				"zzstdoutWriteLine"
+			],
+			[
+				"StringTri",
+				"StringTrimRight"
+			],
+			[
+				"googleSTT_",
+				"GoogleSTT_CopyText"
+			],
+			[
+				"Mouse",
+				"MouseMove"
+			],
+			[
+				"GoogleSTT",
+				"GoogleSTT_On"
+			],
+			[
+				"GoogleST",
+				"GoogleSTT_Off"
+			],
+			[
+				"Error",
+				"ErrorLevel"
+			],
+			[
+				"Erro",
+				"ErrorLevel"
+			],
+			[
+				"ascree",
+				"A_ScreenWidth"
+			],
+			[
+				"Shif",
+				"ShiftDown"
+			],
+			[
+				"Sh",
+				"ShiftDown"
+			],
+			[
+				"zzst",
+				"zzstdoutWriteLine"
+			],
+			[
+				"setma",
+				"SetTitleMatchMode"
+			],
+			[
+				"zstd",
+				"zstdoutWriteLine"
+			],
+			[
+				"FolderSzi",
+				"FolderSizeKB"
+			],
+			[
+				"stdout",
+				"zstdoutWriteLine"
+			],
+			[
+				"A_LoopFile",
+				"A_LoopFileName"
+			],
+			[
+				"wri",
+				"WriteLine()\t.WriteLine()"
+			],
+			[
+				"Visu",
+				"VisualStudio"
+			],
+			[
+				"Ctlr",
+				"CtrlDown"
+			],
+			[
+				"if",
+				"If"
+			],
+			[
+				"WinGet",
+				"WinGetClass"
+			],
+			[
+				"GetA",
+				"WinGetActiveTitle"
+			],
+			[
+				"Tit",
+				"WinGetTitle"
+			],
+			[
+				"Ctr",
+				"CtrlDown"
+			],
+			[
+				"sub",
+				"subprocess"
+			],
+			[
+				"Shit",
+				"Shift"
+			],
+			[
+				"A_G",
+				"A_GuiEvent"
+			],
+			[
+				"MainM",
+				"MainMenu_Item1"
+			],
+			[
+				"Wr",
+				"WriteLine()\t.WriteLine()"
+			],
+			[
+				"%",
+				"%FirstName%"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "readme.md",
+			"settings":
+			{
+				"buffer_size": 331,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "doc/github.md",
+			"settings":
+			{
+				"buffer_size": 276,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/Java8Plus/Java8.sublime-build",
+					""
+				],
+				[
+					"Packages/Java8Plus/Java8.sublime-build",
+					"1 Compile + Run: (현재 파일만, 경고 없음) - Default"
+				],
+				[
+					"Packages/Java8Plus/Java8.sublime-build",
+					"Help: java -help"
+				]
+			],
+			[
+				"Packages/Java8Plus/Java8.sublime-build",
+				"1 Compile + Run: (현재 파일만, 경고 없음) - Default"
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/Java8Plus/Java8.sublime-build",
+					""
+				],
+				[
+					"Packages/Java8Plus/Java8.sublime-build",
+					"1 Compile + Run: (현재 파일만, 경고 없음) - Default"
+				],
+				[
+					"Packages/Java8Plus/Java8.sublime-build",
+					"Help: kotlinc -help"
+				]
+			],
+			[
+				"Packages/Java8Plus/Java8.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeAutoHotkeyPlus/AhkPlus.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeAutoHotkeyPlus/AhkPlus.sublime-build",
+					"1 Ahk Run"
+				]
+			],
+			[
+				"Packages/SublimeAutoHotkeyPlus/AhkPlus.sublime-build",
+				"1 Ahk Run"
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeAutoHotkeyPlus/AhkPlus.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeAutoHotkeyPlus/AhkPlus.sublime-build",
+					"1. Ahk Run"
+				],
+				[
+					"Packages/SublimeAutoHotkeyPlus/AhkPlus.sublime-build",
+					"2. DaumDicTools.ahk"
+				]
+			],
+			[
+				"Packages/SublimeAutoHotkeyPlus/AhkPlus.sublime-build",
+				"2. DaumDicTools.ahk"
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Help"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"kotlinc-native"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"1  Compile + Run: (현재 파일만, 경고 없음) - Default"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"11 Run: java -jar file_base_name.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"2  Compile + Run: (현재경로 파일 모두 포함, 경고 없음)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"22 Run: kotlin -classpath ${file_base_name}.jar, ${file_base_name}Kt"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"3  Compile + Run: (AppMain.kt 실행 현재경로 파일 모두 포함, 경고 없음)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"33 Run: kotlin -classpath AppMain.jar AppMainKt (AppMain.kt 실행 현재경로 파일 모두 포함, 경고 없음)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile {file} -include-runtime -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile: kotlinc {file} -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: kotlin -classpath {file_base_name}.jar {file_base_name}Kt"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Help: kotlinc -help"
+				]
+			],
+			[
+				"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+				"1  Compile + Run: (현재 파일만, 경고 없음) - Default"
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"kotlinc-native"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"1 Compile + Run: (현재 파일만, 경고 없음) - Default"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"1 Libs + Compile + Run: (현재 파일만, 하위 라이브러리 폴더 포함, 경고 없음) - Default"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"1 Run: java -jar file_base_name.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"2  Compile + Run: (현재경로 파일 모두 포함, 경고 없음)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"22 Run: kotlin -classpath ${file_base_name}.jar, ${file_base_name}Kt"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"3  Run after Compile: (AppMain.kt 실행 현재경로 파일 모두 포함, 경고 없음)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"33 Run: kotlin -classpath AppMain.jar AppMainKt (AppMain.kt 실행 현재경로 파일 모두 포함, 경고 없음)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile {file} -include-runtime -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile: kotlinc {file} -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: kotlin -classpath {file_base_name}.jar {file_base_name}Kt"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Help: kotlinc -help"
+				]
+			],
+			[
+				"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+				"1 Compile + Run: (현재 파일만, 경고 없음) - Default"
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"kotlinc-native"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + Run (기본, 현재경로 파일 모두 포함, 경고 없음) - Default"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + Run (현재 파일만, 경고 없음) - Default"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile {file} -include-runtime -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile: kotlinc {file} -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: kotlin -classpath {file_base_name}.jar {file_base_name}Kt"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Help: kotlinc -help"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: java -jar file_base_name.jar"
+				]
+			],
+			[
+				"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+				"Compile + Run (기본, 현재경로 파일 모두 포함, 경고 없음) - Default"
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"kotlinc-native"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Help"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"kotlinc-native"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기) - Default"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile -classpath"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Help"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+				"Compile -classpath"
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"kotlinc-native"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기) - Default"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile -classpath"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: kotlin -classpath (file_base_name).jar (FileBaseName)Kt"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Help"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: java -jar file_base_name.jar"
+				]
+			],
+			[
+				"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+				"Run: kotlin -classpath (file_base_name).jar (FileBaseName)Kt"
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"kotlinc-native"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기) - Default"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile: kotlinc {file} -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: kotlin -classpath (file_base_name).jar (FileBaseName)Kt"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Help: kotlinc -help"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: java -jar file_base_name.jar"
+				]
+			],
+			[
+				"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+				"Compile: kotlinc {file} -d {file_base_name}.jar"
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"kotlinc-native"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기) - Default"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile {file} -include-runtime -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile: kotlinc {file} -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: kotlin -classpath {file_base_name}.jar {file_base_name}Kt"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기)"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Help: kotlinc -help"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: java -jar file_base_name.jar"
+				]
+			],
+			[
+				"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+				"Compile + run (경고 팝업 띄우지 않기) - Default"
+			]
+		],
+		[
+			[
+				[
+					"Run Current File",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					""
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"kotlinc-native"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile + run (경고 팝업 띄우지 않기) - Default"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile {file} -include-runtime -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Compile: kotlinc {file} -d {file_base_name}.jar"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: kotlin -classpath {file_base_name}.jar {file_base_name}Kt"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Help: kotlinc -help"
+				],
+				[
+					"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+					"Run: java -jar file_base_name.jar"
+				]
+			],
+			[
+				"Packages/kotlin-sublime-package/Kotlin.sublime-build",
+				"Compile: kotlinc {file} -d {file_base_name}.jar"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"intsll",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"filem",
+				"File: Move"
+			],
+			[
+				"filedu",
+				"File: Duplicate"
+			],
+			[
+				"filere",
+				"File: Rename"
+			],
+			[
+				"filemo",
+				"File: Move"
+			],
+			[
+				"m",
+				"File: Move"
+			],
+			[
+				"filemov",
+				"File: Move"
+			],
+			[
+				"filre",
+				"File: Rename"
+			],
+			[
+				"flemo",
+				"File: Move"
+			],
+			[
+				"filed",
+				"File: Duplicate"
+			],
+			[
+				"",
+				"View Package File"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"parc",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"Markdown HTML Preview"
+			],
+			[
+				"packaint",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"filedup",
+				"File: Duplicate"
+			],
+			[
+				"package control: install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"xdebst",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdeb",
+				"Xdebug: Restart Session"
+			],
+			[
+				"packremovepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"debug",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"out",
+				"Browse Mode: Outline (Right)"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"packre",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"pcip",
+				"Package Control: Install Package"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"parepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packageremove",
+				"Package Control: Remove Package"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"pains",
+				"Package Control: Install Package"
+			],
+			[
+				"paremov",
+				"Package Control: Remove Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"AutoHotkey - Run"
+			],
+			[
+				"filecop",
+				"File: Copy Name"
+			],
+			[
+				"wfh",
+				"WordFileHelperToEditPlus"
+			],
+			[
+				"au",
+				"AutoHotkey - Run"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"wf",
+				"WordFileHelper"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packinstal",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"google",
+				"Google Translate selected text"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"goog",
+				"Google Translate selected text"
+			],
+			[
+				"packageremov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"fileren",
+				"File: Rename"
+			],
+			[
+				"cp",
+				"File: Copy Path"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"ffo",
+				"Favorite Files: Open File(s)"
+			],
+			[
+				"renal",
+				"Rename File"
+			],
+			[
+				"ex",
+				"ExternalTool:"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"favorite",
+				"Favorite Files: Open File(s)"
+			],
+			[
+				"ff",
+				"Favorite Files: Open File(s)"
+			],
+			[
+				"ffa",
+				"Favorite Files: Add File(s)"
+			],
+			[
+				"f",
+				"Favorite Files: Add File(s)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 248.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"dir",
+			"asdf",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/dev/github/csharp9/Plus2Examples",
+		"/G/dev/github/csharp9/Plus2Examples/doc"
+	],
+	"file_history":
+	[
+		"/G/dev/github/csharp9/examples/csharp/Type.GetType.cs",
+		"/C/Users/udplu/AppData/Roaming/Sublime Text 3/Packages/SublimeAutoHotkeyPlus/AhkPlus.sublime-build",
+		"/C/Users/udplu/AppData/Roaming/Sublime Text 3/Packages/SublimeAutoHotkey/AutoHotkey.sublime-build",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/AHKExamples.sublime-project",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/AHKDaumDic/DaumDicHotStrings.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/AHKDaumDic/DaumDicSub_RADStudio.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/AHKDaumDic/AHKDaumDic.dpr",
+		"/C/dev/delphiProjects/AhkDaumDic/AhkDaumDicDos/AhkDaumDicDos.dpr",
+		"/C/dev/delphiProjects/AhkDaumDic/AhkDaumDicDos/ExamCustomAttribute.pas",
+		"/C/dev/delphiProjects/AhkDaumDic/AhkDaumDicDos/HotStrings.pas",
+		"/C/dev/AHKKotlin/Tools/DaumDicTools.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/AhkCodingAssistant.ahk",
+		"/C/dev/AHKKotlin/ExamKotlin/KotlinCompilerPlugin.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/HotStrings/AutoCorrect.ahk",
+		"/C/Users/udplu/Downloads/AutoCorrect.ahk",
+		"/C/dev/delphiProjects/HelloConsoleDUnitX/CalcUnit.pas",
+		"/C/dev/wsplus/AutoHotKeyPlus/AutoHotkey_L/samples/PythonHtmlParser.ahk",
+		"/C/dev/AHKKotlin/AhkKotlin.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/Kt/eng.md",
+		"/C/dev/AHKKotlin/ExamKotlin/KotlinCompilerPlugin.py",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/gradle/exam01.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/Kt/main.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/gradle/runApp.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/gradle/main.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/gradle/copy.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/DaumDicChrome.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/gradle/buildscript.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/gradle/task.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Bookmark/ToolBookmark.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/AnyPopupMenu.ahk",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/ExamDSLHtml.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/EditPlus01.kt",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/Kt/todo.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/Kt/lambda.md",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/ExamLambda.kt",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/kt-dsl/todo.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/kt-dsl/140.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/Kt/data.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/data.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/include/xstring.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/Kt/html.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/File.md",
+		"/C/Program Files/Sublime Text 3/$CURRENT_PATH",
+		"/C/Users/udplu/AppData/Roaming/Sublime Text 3/Packages/kotlin-sublime-package/Kotlin.sublime-build",
+		"/C/dev/AHKKotlin/ExamKotlin/extension/XGenerics.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/lambda/Java8Lambda.java",
+		"/C/dev/AHKKotlin/ExamKotlin/extension/ExamExtension02.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/extension/ExamExtension.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/ExamXdo04.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/lazy/ExamLazy01.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/lazy/ExamLazy02.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/lazy/ExamExtension.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/file/ExamFile01.kt",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/System.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/kt/run.md",
+		"/C/dev/AHKKotlin/ExamKotlin/file/ExamFile01.ahk",
+		"/C/Users/udplu/AppData/Roaming/Sublime Text 3/Packages/Java8Plus/Java8.sublime-build",
+		"/C/Users/udplu/AppData/Roaming/Sublime Text 3/Packages/Java8Plus/Java8.sublime-completions",
+		"/C/dev/AHKKotlin/ExamJava8/Xutils.java",
+		"/C/dev/AHKKotlin/ExamJava8/ExamJava8.java",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/ExamXdo05.kt",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/xtext/Xtext.ahk",
+		"/C/dev/AHKKotlin/ExamKotlin/library/AppMain.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/library/ExamLibrary.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/library/ExamLibrary01.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/libs/XGenerics.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/ExamFile01.ahk",
+		"/C/Users/udplu/AppData/Roaming/Sublime Text 3/Packages/SublimeAutoHotkey/Default.sublime-commands",
+		"/C/dev/AHKKotlin/ExamKotlin/libs/ExamLibrary.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/libs/ExamLibrary01.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/ExamXdo01.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/ExamXdo03.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/ExamXdo02.kt",
+		"/C/dev/AHKKotlin/Tools/MakeExeRunJar.ahk",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/ExamFile01.kt",
+		"/C/dev/AHKKotlin/ExamKotlin/Dsl/EditPlus01.ahk",
+		"/C/Users/udplu/AppData/Roaming/Sublime Text 3/Packages/kotlin-sublime-package/snippets/funMakeAhkFile.sublime-snippet",
+		"/C/dev/AHKKotlin/AhkKotlin.ahk",
+		"/C/dev/AhkKotlin/AhkKotlin.ahk",
+		"/C/dev/IdeaProjects/HelloKotlinNative/HelloNative.kt",
+		"/C/dev/IdeaProjects/HelloKotlinNative/MessageBox.kt",
+		"/C/dev/Sublime/Packages/kotlin-sublime-package/Kotlin.sublime-build",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Tools/EditPlusAhk.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Bookmark/ToolBookmark_Win1.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/xtext/Xtext.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/English/english.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Tools/EditPlusAhk.exe",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/xtext/XtextData.ahk",
+		"/C/Users/udplu/AppData/Roaming/Sublime Text 3/Packages/SublimeAutoHotkeyPlus/Main.sublime-menu",
+		"/C/Users/udplu/AppData/Roaming/Sublime Text 3/Packages/SublimeAutoHotkeyPlus/https:/www.eclipse.org/Xtext/documentation/index.html",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Java/KryonetSimpleServer.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Java/HelloSwing.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AutoHotkey_L/bin/Win32w_debug/Lib/common.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Exam.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/OnePen/ExamMouseMove.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/sublime-projects/kryonet.sublime-project",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Projects/VisualStudio2017.txt",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Projects/Android.txt",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Java/KryonetSimpleServer.xml",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/EclipsePluginHandInstall.ahk",
+		"/G/dev/eclipse/java-2018-09/eclipse/configuration/org.eclipse.equinox.simpleconfigurator/bundles.info",
+		"/C/Program Files (x86)/Android/android-sdk/platforms/android-19/package.xml",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/toast.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/lintalist.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Projects/Markers.txt",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Projects/AcGenerator.txt",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Projects/AutoHotKey.txt",
+		"/C/dev/wsplus/AutoHotKeyPlus/AutoHotkey_L/samples/FileRead.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/ListOfKeys.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/Books/이것이 자바다.txt",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/ImageGridActivity.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/ImageViewActivity.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/AndroidCodeAssist.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/XML/ListView.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/descend.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/Intent.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/getPicturesDirectory.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/loadDrawing.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/android/Intent.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/Slate.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/setOrientationsetOrientation(.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/lintalist/WordFileHelper/JAVA/ColorColorList.md",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/WindowSpy.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/projects/AutoHotKey.txt",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/AHKMenualTips/AHKMenualTIps.ahk",
+		"/C/dev/doc/작업1227.txt",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/AHKMenualTips/Basic/Open Notepad And Write Hello word.ahk",
+		"/C/dev/wsplus/AutoHotKeyPlus/AHKExamples/AHKMenualTips/Basic/String Format Print.ahk"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "readme.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "doc/github.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 276,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 58.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 139.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Plus2Examples.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tg",
+				"csharp\\Type.GetType.cs"
+			],
+			[
+				"ty",
+				"csharp\\Type.GetType.cs"
+			],
+			[
+				"AhkCodingAssistant",
+				"AHKExamples\\AhkCodingAssistant.ahk"
+			],
+			[
+				"da",
+				"AHKExamples\\DaumDicChrome.ahk"
+			],
+			[
+				"dau",
+				"AHKExamples\\DaumDicChrome.ahk"
+			],
+			[
+				"ex",
+				"AHKExamples\\Exam.ahk"
+			],
+			[
+				"eclipse",
+				"AHKExamples\\EclipsePluginHandInstall.ahk"
+			],
+			[
+				"exam",
+				"AHKExamples\\Exam.ahk"
+			],
+			[
+				"image",
+				"JAVA\\ImageViewActivity.md"
+			],
+			[
+				"spy",
+				"AHKExamples\\WindowSpy.ahk"
+			],
+			[
+				"authome",
+				"AHKExamples\\AutoHotKeyMenual.md"
+			],
+			[
+				"key",
+				"AHKExamples\\KeyList2.ahk"
+			],
+			[
+				"ecli",
+				"AHKExamples\\EclipsePluginHandInstall.ahk"
+			],
+			[
+				"MUSI",
+				"AHKExamples\\Sound\\MusicPlayerExam.ahk"
+			],
+			[
+				"xsoun",
+				"AHKExamples\\Sound\\Lib\\xsound.ahk"
+			],
+			[
+				"drum",
+				"AHKExamples\\Sound\\Drummer.ahk"
+			],
+			[
+				"form",
+				"AHKExamples\\ExamForm.ahk"
+			],
+			[
+				"ahkex",
+				"AHKExamples\\AHKExamples.ahk"
+			],
+			[
+				"mouse",
+				"AHKExamples\\MouseEnterLeave.ahk"
+			],
+			[
+				"xgen",
+				"C:\\dev\\wsplus\\AutoHotKeyPlus\\AHKExamples\\include\\xgen.ahk"
+			],
+			[
+				"daum",
+				"AHKExamples\\DaumDicChrome.ahk"
+			],
+			[
+				"tree",
+				"AHKExamples\\TreeView\\TreeList.ahk"
+			],
+			[
+				"reg",
+				"AHKExamples\\RegexCShapClassMethod.ahk"
+			],
+			[
+				"plus",
+				"AHKExamples\\PlusHotKeys.ahk"
+			],
+			[
+				"filelistt",
+				"AHKExamples\\FileListTree.ahk"
+			],
+			[
+				"common",
+				"AHKExamples\\include\\common.ahk"
+			],
+			[
+				"file",
+				"AHKExamples\\FileList.ahk"
+			],
+			[
+				"auto",
+				"AHKExamples\\AutoCompleteCombo.ahk"
+			],
+			[
+				"input",
+				"AHKExamples\\FlowInputProject.ahk"
+			],
+			[
+				"ini",
+				"AHKExamples\\FlowConfig.ini"
+			],
+			[
+				"flow",
+				"AHKExamples\\FlowInputProject.ahk"
+			],
+			[
+				"fileli",
+				"AHKExamples\\FileListLoop.ahk"
+			],
+			[
+				"param",
+				"AHKExamples\\RunParams.ahk"
+			],
+			[
+				"gendrn",
+				"AHKExamples\\GenerateAhkToClipDrn.ahk"
+			],
+			[
+				"gener",
+				"AHKExamples\\GenerateAhkToClipDrn.ahk"
+			],
+			[
+				"dra",
+				"AHKExamples\\DrakonDrnOpener.ahk"
+			],
+			[
+				"markdow",
+				"ParserSourceMarkdown.ahk"
+			],
+			[
+				"filere",
+				"FileRead.ahk"
+			],
+			[
+				"help",
+				"WordFileHelper_MakeFile.ahk"
+			],
+			[
+				"comm",
+				"include\\common.ahk"
+			],
+			[
+				"edit",
+				"ExamRadioButton.ahk"
+			],
+			[
+				"GOM",
+				"GoogleTranslateGOM.ahk"
+			],
+			[
+				"exchrom",
+				"ExamChrome.ahk"
+			],
+			[
+				"gom",
+				"GoogleTranslateGOM.ahk"
+			],
+			[
+				"word",
+				"data\\words.txt"
+			],
+			[
+				"",
+				"FuzzySearch.ahk"
+			],
+			[
+				"fuzz",
+				"FuzzySearchTestGui.ahk"
+			],
+			[
+				"words",
+				"data\\words.txt"
+			],
+			[
+				"exauto",
+				"ExamAutoComplete.ahk"
+			],
+			[
+				"car",
+				"CaretExam.ahk"
+			],
+			[
+				"code",
+				"CodeInputWin.ahk"
+			],
+			[
+				"obj",
+				"ExamObject.ahk"
+			],
+			[
+				"read",
+				"FileRead.ahk"
+			],
+			[
+				"main",
+				"app\\src\\main\\java\\com\\chrisrisner\\fragmentsample\\MainActivity.java"
+			],
+			[
+				"exvb",
+				"ExcelVB.md"
+			],
+			[
+				"re",
+				"RecognitionListener.md"
+			],
+			[
+				"hot",
+				"hotkey.md"
+			],
+			[
+				"intel",
+				"intellij.md"
+			],
+			[
+				"toas",
+				"toast.md"
+			],
+			[
+				"doc",
+				"devDoc.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 105.0,
+		"last_filter": "readlin",
+		"selected_items":
+		[
+			[
+				"readlin",
+				"else if ( Instr(readline, \":\") = 1 ) and ( Instr(readline, \""
+			],
+			[
+				"read",
+				"GoTo_Readfile"
+			],
+			[
+				"",
+				"ACT_IS_IF_OLD"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
