@@ -1,14 +1,14 @@
 # github
 
-## simple
-	- git clone https://github.com/udplus/examples
+## git simple
+	- git clone https://github.com/udplus/Plus2Examples.git
 	- work...
 	- git show
 	- git add .
 	- git commit -m "do"
 	- git push
 
-## fast simple line
+## git fast simple line
 	git add . & git commit -m "do" & git push	
 
 ## git clone submoduls
